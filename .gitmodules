@@ -1,0 +1,3 @@
+[submodule "modules/xilinx_npf_buildflow"]
+	path = modules/xilinx_npf_buildflow
+	url = git@github.com:ERZehr/xilinx_npf_buildflow.git
